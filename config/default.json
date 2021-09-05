@@ -1,0 +1,16 @@
+{
+    "db-connections":{
+        "mongodb":{
+            "host":"cluster0.pajta.mongodb.net",
+            "user":"acad_rest_api_user",
+            "password":"baJSk1l3zyZN6ZC1",
+            "dbname":"rest-api-DB"
+        }
+
+    },
+    "secretkeys":{
+        "cryptojs":"jsA5t2@tfhD",
+        "jwt": "ABC@2020*"
+    },
+    "server-port": 3000
+}
